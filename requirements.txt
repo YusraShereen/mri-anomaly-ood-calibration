@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.0
+matplotlib>=3.8
+pyyaml>=6.0
+scikit-learn>=1.4
+# for the detectors themselves:
+torch>=2.2
+torchvision>=0.17
+nibabel>=5.2

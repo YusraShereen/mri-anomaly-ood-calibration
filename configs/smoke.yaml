@@ -1,0 +1,6 @@
+seed: 42
+scores_dir: results/smoke/scores
+source_domain: source_val
+target_fpr: 0.05
+out_dir: results/smoke
+synthetic: true

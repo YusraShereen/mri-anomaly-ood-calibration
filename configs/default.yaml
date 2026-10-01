@@ -1,0 +1,6 @@
+seed: 42
+scores_dir: scores          # one CSV per domain: columns score,label (written by extract_scores)
+source_domain: source_val
+target_fpr: 0.05
+out_dir: results
+synthetic: false
